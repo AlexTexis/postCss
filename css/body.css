@@ -1,0 +1,15 @@
+body{
+	margin:0;
+	font-family:'Montserrat' ,san-serif;
+}
+ 
+*{
+	box-sizing: border-box;
+}
+
+:root{
+--btnActive:scale(.9);
+--btnPointer:pointer;
+	}
+
+

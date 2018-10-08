@@ -1,0 +1,19 @@
+.skills{
+	display: grid;
+	grid-template-columns: minmax(auto,1200px);
+	justify-content: center;
+	padding: 1em 0;
+}
+.skills h2{
+	text-align: center;
+}
+
+.skills-container{
+	display: grid;
+	grid-template-columns: 70px 1fr 70px 1fr 70px 1fr;	 
+	grid-gap:1em;
+}
+
+.skill-img img{
+	max-width: 70px;
+}
